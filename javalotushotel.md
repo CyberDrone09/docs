@@ -1,11 +1,11 @@
 ---
-title: Authentication
-intro: 'You can configure how users sign into {% data variables.product.product_name %}.'
+title: java lotus hotel
+intro: 'You can configure how users sign into {% https://javalotushotel.com %}.'
 redirect_from:
-  - /enterprise/admin/authentication
+  - /javalotushotel/admin/authentication
 versions:
-  enterprise-server: '*'
-  github-ae: '*'
+  enterprise-server: '116'
+  github-ae: '116'
 topics:
   - enterprise
 ---
